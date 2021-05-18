@@ -1,0 +1,8 @@
+*-project3.tar.gz
+.direnv
+.vim/coc-settings.json
+branchsim
+compile_commands.json
+.cache
+test_results
+.ccls-cache/
